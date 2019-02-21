@@ -1,10 +1,11 @@
 D8coin integration/staging tree
 ================================
 
-http://www.d8coin.org
+
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 D8coin Developers
+Copyright (c) 2019 D8coin Developers
 
 What is D8coin?
 ----------------
@@ -19,14 +20,12 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the D8coin client sofware, see http://www.d8coin.org.
-
+the D8coin client sofware,
 License
 -------
 
 D8coin is released under the terms of the MIT license. See `COPYING` for more
-information or see http://opensource.org/licenses/MIT.
-
+information 
 Development process
 -------------------
 
