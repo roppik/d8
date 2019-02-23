@@ -4,7 +4,7 @@ D8coin integration/staging tree
 
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 D8coin Developers
+Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2019 D8coin Developers
 
 What is D8coin?
@@ -16,7 +16,7 @@ D8coin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - ~84 million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
+ - 10000 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
